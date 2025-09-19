@@ -5,7 +5,7 @@ module.exports = {
   config: {
     name: "info",
     version: "4.0",
-    author: "T A N J I L 🎀",
+    author: "T U S H E R 🎀",
     shortDescription: "Show Owner and Bot Info in styled reply",
     longDescription: "Beautifully formatted information command showing Owner and Bot details",
     category: "INFO",
@@ -27,17 +27,17 @@ module.exports = {
 ⎯ [(🌷) OWNER INFO (🌷)] ⎯
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
-Name   : TanJil Hasan 🎀
+Name   : Tusher Khan 🎀
 UID    : ${senderID}
-U.n.   : tanjilhasan420
-Age    : 𝟷𝟿+
+U.n.   : tusher-bot
+Age    : 22+
 House  : Dhaka
 Status : Single
 
 ⎯⎯ [ 🤖 BOT INFO 🤖 ] ⎯⎯
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
-Name   : Hi Na Ta 
+Name   : MATAL--BOT
 UID    : 61579021162546
 U.n.   : 𝙴𝚁𝚁𝙾𝚁
 Age    : 1+
@@ -51,7 +51,7 @@ CRU    : ${cpu}
 ⎯⎯⎯⎯ [ 🔧 BOT ] ⎯⎯⎯⎯
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
-👑 Author : 🎀 𝚃 𝙰 𝙽 𝙹 𝙸 𝙻 🎀
+👑 Author : 🎀 T U S H E R 🎀
     `;
 
     api.sendMessage(message, threadID);
